@@ -1,0 +1,13 @@
+C:\Users\ADMIN\OneDrive - Etec Centro Paula Souza\MICROSOFT TEAMS\Itanhaém\Programação de Algoritmos\lista_2\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.exe
+C:\Users\ADMIN\OneDrive - Etec Centro Paula Souza\MICROSOFT TEAMS\Itanhaém\Programação de Algoritmos\lista_2\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.deps.json
+C:\Users\ADMIN\OneDrive - Etec Centro Paula Souza\MICROSOFT TEAMS\Itanhaém\Programação de Algoritmos\lista_2\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - Etec Centro Paula Souza\MICROSOFT TEAMS\Itanhaém\Programação de Algoritmos\lista_2\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.dev.json
+C:\Users\ADMIN\OneDrive - Etec Centro Paula Souza\MICROSOFT TEAMS\Itanhaém\Programação de Algoritmos\lista_2\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.dll
+C:\Users\ADMIN\OneDrive - Etec Centro Paula Souza\MICROSOFT TEAMS\Itanhaém\Programação de Algoritmos\lista_2\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.pdb
+C:\Users\ADMIN\OneDrive - Etec Centro Paula Souza\MICROSOFT TEAMS\Itanhaém\Programação de Algoritmos\lista_2\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csprojAssemblyReference.cache
+C:\Users\ADMIN\OneDrive - Etec Centro Paula Souza\MICROSOFT TEAMS\Itanhaém\Programação de Algoritmos\lista_2\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - Etec Centro Paula Souza\MICROSOFT TEAMS\Itanhaém\Programação de Algoritmos\lista_2\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - Etec Centro Paula Souza\MICROSOFT TEAMS\Itanhaém\Programação de Algoritmos\lista_2\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - Etec Centro Paula Souza\MICROSOFT TEAMS\Itanhaém\Programação de Algoritmos\lista_2\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.dll
+C:\Users\ADMIN\OneDrive - Etec Centro Paula Souza\MICROSOFT TEAMS\Itanhaém\Programação de Algoritmos\lista_2\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.pdb
+C:\Users\ADMIN\OneDrive - Etec Centro Paula Souza\MICROSOFT TEAMS\Itanhaém\Programação de Algoritmos\lista_2\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.genruntimeconfig.cache
